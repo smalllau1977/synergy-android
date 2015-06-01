@@ -1,0 +1,1 @@
+My goal is to get at least a synergy client, hopefully a synergy server running on the android operating system.
